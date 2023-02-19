@@ -7,7 +7,7 @@
 		"test": "vitest --run --reporter verbose",
 		"test:watch": "vitest --reporter verbose",
 		"start": "http-server -c-1",
-		"build": "npm run build"
+		"build": "npm run build verbose "
 	},
 	"keywords": [],
 	"author": "Ghozlene Mohamed Achref",
